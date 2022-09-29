@@ -1,6 +1,6 @@
 
 <img src ="https://github.com/Kanishkrawatt/Kanishkrawatt/blob/main/githubimg.png?raw=true" alt ="banner" />
-<h1 align="center">Hi 👋, I'm Tushar Patwal</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> <br>I'm Tushar Patwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpatwal&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpatwal" /> </p>
