@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **patwaltushar001@gmail.com**
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
